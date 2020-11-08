@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Este es mi primer proyecto para la asignatura TER de la UOC. 
+
 <!--
 **ygonzalezmo/ygonzalezmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
