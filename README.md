@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Bienvenidos, Benvinguts 👋
 
 Este es mi primer proyecto para la asignatura TER de la UOC. 
 
